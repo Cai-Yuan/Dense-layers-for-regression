@@ -1,0 +1,1 @@
+Use three fully connected layers for regression tasks. The results are much better than traditional machine learning algorithms (linear regression, random forest, SVM, etc.) 2019/01/22
